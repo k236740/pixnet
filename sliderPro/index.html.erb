@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"> </script>
+
+  <link rel="stylesheet" href="style/style.css">
+  <title>slider Pro</title>
+</head>
+<body>
+<div id="wrapper">
+  <h1>slider Pro</h1>
+<fieldset>
+  <legend>CSS Link</legend>
+  <ul>
+    <li><input id="a1" size="100" type="text" value="https://k236740.github.io/pixnet/sliderPro/dist/css/slider-pro.min.css" /></li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend>js Link</legend>
+  <ul>
+    <li><input id="a2" size="100" type="text" value="https://k236740.github.io/pixnet/sliderPro/dist/js/jquery.sliderPro.min.js" /></li>
+    <li><input id="a3" size="100" type="text" value="https://k236740.github.io/pixnet/sliderPro/dist/js/jquery.sliderPro.config.js" /></li>
+  </ul>
+</fieldset>
+<fieldset>
+  <legend>全部選取</legend>
+<textarea name="sliderPro">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"> </script>
+<link rel="stylesheet" type="text/css" href="https://k236740.github.io/pixnet/sliderPro/dist/css/slider-pro.min.css" media="screen"/>
+<script type="text/javascript" src="https://k236740.github.io/pixnet/sliderPro/dist/js/jquery.sliderPro.min.js"></script>
+<script type="text/javascript" src="https://k236740.github.io/pixnet/sliderPro/dist/js/jquery.sliderPro.config.js"></script>
+</textarea>
+</fieldset>
+</div>
+<script type="text/javascript">
+$("#a1,#a2,#a3,textarea").on("click", function(){
+  $(this).select();
+});
+</script>
+<%= livereload_js if ENV["RACK_ENV"] != "production" %>
+</body>
+</html>
