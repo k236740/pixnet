@@ -18,6 +18,7 @@ jQuery.noConflict();
         imageScaleMode:'contain',
         autoHeight:true,
         fade:true,
+        fullScreen:true,
         breakpoints: {
           1200: {
             thumbnailsPosition: 'bottom',
