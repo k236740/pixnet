@@ -3,7 +3,7 @@ jQuery.noConflict();
     $(function() {
       $( '#aideshop-article' ).sliderPro({
         width: '100%',
-        height: 600,
+        height: '100%',
         orientation: 'horizontal',
         loop: false,
         arrows: true,
@@ -15,7 +15,8 @@ jQuery.noConflict();
         thumbnailPointer: true,
         thumbnailWidth: 350,
         thumbnailHeight:170,
-        imageScaleMode:'cover',
+        imageScaleMode:'contain',
+        autoHeight:true,
         fade:true,
         breakpoints: {
           1200: {
