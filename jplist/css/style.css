@@ -262,6 +262,10 @@
   clear: both;
 }
 
+.list-item .desc {
+  margin-top: 30px;
+}
+
 @media only screen and (max-width: 800px) {
   .jplist-thumbs-view .list .img {
     background: #fff;
