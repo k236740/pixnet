@@ -256,7 +256,10 @@
 .jplist-thumbs-view .list-item .date {
   float: none;
 }
-
+.jplist-pagesbox {
+  display: block;
+  clear: both;
+}
 @media only screen and (max-width: 800px) {
   .jplist-thumbs-view .list .img {
     background: #fff;
