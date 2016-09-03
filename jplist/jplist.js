@@ -1,0 +1,11 @@
+$.include("css/style.css");
+$.include("css/jplist.core.min.css");
+$.include("js/jplist.core.min.js");
+$.include("js/jplist.sort-bundle.min.js");
+$.include("js/jplist.textbox-filter.min.js");
+$.include("css/jplist.textbox-filter.min.css");
+$.include("js/jplist.pagination-bundle.min.js");
+$.include("css/jplist.pagination-bundle.min.css");
+$.include("js/as/jplist-header-top.js");
+$.include("js/as/jplist-header-bottom.js");
+$.include("js/jplist.config.js");
