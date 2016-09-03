@@ -262,8 +262,8 @@
   clear: both;
 }
 
-.list-item .desc {
-  margin-top: 30px;
+.list-item {
+  margin-top: 30px !important;
 }
 
 @media only screen and (max-width: 800px) {
