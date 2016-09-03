@@ -1,3 +1,14 @@
+.list-item {
+  *zoom: 1;
+}
+.list-item:after, .list-item:before {
+  content: "";
+  display: table;
+}
+.list-item:after {
+  clear: both;
+}
+
 .text-shadow {
   text-shadow: 1px 1px 1px #fff;
 }
