@@ -1,24 +1,10 @@
-.list-item .desc {
-  *zoom: 1;
-}
-.list-item .desc:after, .list-item .desc:before {
-  content: "";
-  display: table;
-}
-.list-item .desc:after {
-  clear: both;
-}
-
 .text-shadow {
   text-shadow: 1px 1px 1px #fff;
 }
 
 .boxss {
-  clear: both;
+  float: left;
   width: 100%;
-}
-.boxss h1, .boxss h2, .boxss h3, .boxss h4, .boxss h5, .boxss h6 {
-  display: block;
 }
 
 @media only screen and (max-width: 500px) {
@@ -186,7 +172,6 @@
 
 .jplist-grid-view .list-item .desc {
   display: none;
-  clear: both;
 }
 
 .jplist-grid-view .list-item .block {
@@ -266,15 +251,6 @@
 
 .jplist-thumbs-view .list-item .date {
   float: none;
-}
-
-.jplist-pagesbox {
-  display: block;
-  clear: both;
-}
-
-.list-item {
-  margin-top: 30px !important;
 }
 
 @media only screen and (max-width: 800px) {
