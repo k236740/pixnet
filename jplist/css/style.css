@@ -1,14 +1,14 @@
-
 .text-shadow {
   text-shadow: 1px 1px 1px #fff;
 }
-
 
 .boxss {
   clear: both;
   width: 100%;
 }
-
+.boxss h1, .boxss h2, .boxss h3, .boxss h4, .boxss h5, .boxss h6 {
+  display: block;
+}
 
 @media only screen and (max-width: 500px) {
   .paypal-badges {
@@ -256,10 +256,12 @@
 .jplist-thumbs-view .list-item .date {
   float: none;
 }
+
 .jplist-pagesbox {
   display: block;
   clear: both;
 }
+
 @media only screen and (max-width: 800px) {
   .jplist-thumbs-view .list .img {
     background: #fff;
