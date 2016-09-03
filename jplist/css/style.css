@@ -175,6 +175,7 @@
 
 .jplist-grid-view .list-item .desc {
   display: none;
+  clear: both;
 }
 
 .jplist-grid-view .list-item .block {
