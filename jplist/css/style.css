@@ -1,11 +1,11 @@
-.list-item {
+.list-item .desc {
   *zoom: 1;
 }
-.list-item:after, .list-item:before {
+.list-item .desc:after, .list-item .desc:before {
   content: "";
   display: table;
 }
-.list-item:after {
+.list-item .desc:after {
   clear: both;
 }
 
