@@ -330,7 +330,7 @@
   /* smooth scrolling on touch devices */
   -webkit-overflow-scrolling: touch;
 }
-.cd-panel-content p {
+/*.cd-panel-content p {
   font-size: 14px;
   font-size: 0.875rem;
   color: #424f5c;
@@ -346,4 +346,4 @@
     font-size: 1rem;
     line-height: 1.6;
   }
-}
+}*/
