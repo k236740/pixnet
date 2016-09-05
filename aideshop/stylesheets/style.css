@@ -1988,6 +1988,7 @@ body {
     position: relative;
     font-size: 2rem;
     font-family: "SourceCodePro-Regular", "Noto Sans TC";
+    color: #566473;
   }
   #container2 #main #links #latest-comment .box-text ul li:nth-child(2n+1) {
     background-color: #E8F5FE;
