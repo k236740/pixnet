@@ -1978,6 +1978,9 @@ body {
     color: #aaa;
     font-size: 1.6rem;
   }
+  #container2 #main #links #latest-comment {
+    /* 最新留言 */
+  }
   #container2 #main #links #latest-comment .box-text ul {
     margin: 0;
   }
@@ -2011,6 +2014,27 @@ body {
   }
   #container2 #main #links #latest-comment .box-text ul li a img {
     display: none;
+  }
+  #container2 #main #links #visitor {
+    /* 誰來我家 */
+  }
+  #container2 #main #links #visitor .box-text ul.ul-visitors {
+    /* 訪客瀏覽列表 */
+  }
+  #container2 #main #links #visitor .box-text .box-more {
+    /* 瀏覽所有列表 */
+  }
+  #container2 #main #links #visitor .box-text .box-more a {
+    display: block;
+    font-size: 2rem;
+    color: #1467C3;
+    text-decoration: none;
+    margin: 0 10px;
+    display: block;
+    padding: 5px 0;
+    text-align: center;
+    width: auto;
+    position: relative;
   }
   #container2 #main #links #box318115,
   #container2 #main #links #box318121,
