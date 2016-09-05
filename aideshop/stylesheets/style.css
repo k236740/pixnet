@@ -2796,6 +2796,9 @@ body {
   div[class*="text-content-default"], .cd-panel-content {
     font-size: 1.8rem;
   }
+  div[class*="text-content-default"] blockquote, .cd-panel-content blockquote {
+    margin: 0 20px;
+  }
 }
 body .cd-panel {
   font-family: "Droid Sans", sans-serif;
