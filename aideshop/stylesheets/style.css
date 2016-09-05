@@ -717,11 +717,11 @@ body {
   }
 
   #container {
-    background: #EBF4FD url("https://pic.pimg.tw/aideshop/1470467915-296084265.png") top repeat-x;
+    background: #EBF4FD url("../images/container.png") top repeat-x;
   }
 
   #container2 {
-    background: url("https://pic.pimg.tw/aideshop/1470467917-1425339588.png") top center no-repeat;
+    background: url("../images/header-bg.png") top center no-repeat;
   }
   #container2 #header {
     height: 270px;
@@ -736,7 +736,7 @@ body {
     top: 62px;
     float: left;
     height: 101px;
-    background: url("https://pic.pimg.tw/aideshop/1470467917-360542107.png") no-repeat;
+    background: url("../images/logo.png") no-repeat;
   }
   #container2 #header #banner .skiplink {
     display: none;
@@ -861,10 +861,10 @@ body {
     vertical-align: middle;
   }
   #container2 #main #content #spotlight .nav ul li:not(:last-child) {
-    background: url("https://pic.pimg.tw/aideshop/1470467918-2410957694.png") top right repeat-x;
+    background: url("../images/nav.png") top right repeat-x;
   }
   #container2 #main #content #spotlight .nav ul li:not(:last-child):hover {
-    background: url("https://pic.pimg.tw/aideshop/1470467918-4183224580.png") top right repeat-x;
+    background: url("../images/nav-hover.png") top right repeat-x;
   }
   #container2 #main #content #spotlight .nav ul li:first-child {
     -moz-border-radius: 6px 0 0 6px;
@@ -872,7 +872,7 @@ body {
     border-radius: 6px 0 0 6px;
   }
   #container2 #main #content #spotlight .nav ul li:last-child {
-    background: url("https://pic.pimg.tw/aideshop/1470467918-2410957694.png") top left repeat-x;
+    background: url("../images/nav.png") top left repeat-x;
     -moz-border-radius: 0 6px 6px 0;
     -webkit-border-radius: 0;
     border-radius: 0 6px 6px 0;
@@ -936,7 +936,7 @@ body {
   }
   #container2 #main #content #article-area #article-box h3.article-area-title {
     height: 37px;
-    background: url("https://pic.pimg.tw/aideshop/1470467915-57406065.png") center bottom no-repeat;
+    background: url("../images/article-area-title.png") center bottom no-repeat;
     line-height: 39px;
     text-align: center;
     font-size: 2.4rem;
@@ -1118,11 +1118,11 @@ body {
   }
   #container2 #main #content #article-area .article .article-body .article-content .article-content-inner div[class*="tcd-unfold"] a[class*="unfold-open"] {
     /*展開的按鈕*/
-    background: url("https://pic.pimg.tw/aideshop/1472018914-930012864.png") 0 0px no-repeat;
+    background: url("../images/text-content-default-unfold-open.png") 0 0px no-repeat;
   }
   #container2 #main #content #article-area .article .article-body .article-content .article-content-inner div[class*="tcd-unfold"] a[class*="unfold-close"] {
     /*收合的按鈕*/
-    background: url("https://pic.pimg.tw/aideshop/1472018913-3474477676.png") 0 0px no-repeat;
+    background: url("../images/text-content-default-unfold-close.png") 0 0px no-repeat;
   }
   #container2 #main #content #article-area .article .article-body .article-content .article-content-inner .more {
     /* 繼續閱讀的按鈕 */
@@ -1133,7 +1133,7 @@ body {
     bottom: 4px;
     left: 5px;
     z-index: 5;
-    background: url("https://pic.pimg.tw/aideshop/1470913718-3045777219.png") 0 -28px no-repeat;
+    background: url("../images/read-more.png") 0 -28px no-repeat;
   }
   #container2 #main #content #article-area .article .article-body .article-content .article-content-inner .more a {
     display: block;
@@ -1145,7 +1145,7 @@ body {
     -o-transition: opacity 0.4s ease-in-out;
     -webkit-transition: opacity 0.4s ease-in-out;
     transition: opacity 0.4s ease-in-out;
-    background: url("https://pic.pimg.tw/aideshop/1470913718-3045777219.png") 0 0 no-repeat;
+    background: url("../images/read-more.png") 0 0 no-repeat;
   }
   #container2 #main #content #article-area .article .article-body .article-content .article-content-inner .more a:hover {
     opacity: 0;
@@ -1195,7 +1195,7 @@ body {
     margin: 0 0 -12px 0;
     background-color: #ccc;
     z-index: 2;
-    background: url("https://pic.pimg.tw/aideshop/1470467915-2901363084.png") repeat-x;
+    background: url("../images/author.png") repeat-x;
     height: 37px;
     border: 1px solid #A5C5EB;
     border-width: 1px 0 0 0;
@@ -1282,7 +1282,7 @@ body {
   }
   #container2 #main #content #article-area .article .article-footer div.history h6 {
     height: 37px;
-    background: url("https://pic.pimg.tw/aideshop/1470467917-698920723.png") center bottom no-repeat;
+    background: url("../images/history-h6.png") center bottom no-repeat;
     line-height: 39px;
     text-align: center;
     font-size: 2.4rem;
@@ -1328,7 +1328,7 @@ body {
     right: 40px;
     overflow: hidden;
     z-index: 2;
-    background: url("https://pic.pimg.tw/aideshop/1472009896-3220550121.png") 0 -30px no-repeat;
+    background: url("../images/back-to-top.png") 0 -30px no-repeat;
   }
   #container2 #main #content #article-area .article .article-footer .back-to-top a {
     display: block;
@@ -1338,7 +1338,7 @@ body {
     -o-transition: opacity 0.4s ease-in-out;
     -webkit-transition: opacity 0.4s ease-in-out;
     transition: opacity 0.4s ease-in-out;
-    background: url("https://pic.pimg.tw/aideshop/1472009896-3220550121.png") 0 0 no-repeat;
+    background: url("../images/back-to-top.png") 0 0 no-repeat;
     text-indent: -100px;
   }
   #container2 #main #content #article-area .article .article-footer .back-to-top a:hover {
@@ -1443,11 +1443,11 @@ body {
     -moz-box-shadow: -1px 1px 1px rgba(255, 255, 255, 0.7) inset;
     -webkit-box-shadow: -1px 1px 1px rgba(255, 255, 255, 0.7) inset;
     box-shadow: -1px 1px 1px rgba(255, 255, 255, 0.7) inset;
-    background: url("https://pic.pimg.tw/aideshop/1470467918-1245476128.png") center repeat-x;
+    background: url("../images/page.png") center repeat-x;
   }
   #container2 #main #content #article-area .page span {
     color: #fff;
-    background: url("https://pic.pimg.tw/aideshop/1470467918-490099547.png") center repeat-x;
+    background: url("../images/page-active.png") center repeat-x;
     border: 1px solid #1B78EF;
     -moz-box-shadow: 0px 1px 1px rgba(255, 255, 255, 0.7) inset;
     -webkit-box-shadow: 0px 1px 1px rgba(255, 255, 255, 0.7) inset;
@@ -1648,7 +1648,7 @@ body {
   }
   #container2 #main #links .box .box-title {
     height: 37px;
-    background: url("https://pic.pimg.tw/aideshop/1470467916-1209498544.png") center bottom no-repeat;
+    background: url("../images/box-title.png") center bottom no-repeat;
     line-height: 39px;
     text-align: center;
     font-size: 2.4rem;
@@ -1724,7 +1724,7 @@ body {
     display: inline-block;
     width: 100px;
     height: 35px;
-    background: url("https://pic.pimg.tw/aideshop/1470467918-47262515.png") center repeat-x;
+    background: url("../images/Sign-in.png") center repeat-x;
     text-decoration: none;
     -moz-border-radius: 9px;
     -webkit-border-radius: 9px;
@@ -1784,7 +1784,7 @@ body {
     width: 58px;
     height: 58px;
     border: 1px solid #79A7E2;
-    background: url("http ://pic.pimg.tw/aideshop/1470563598-3732509897.png") center no-repeat;
+    background: url("../images/demo.png") center no-repeat;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
     border-radius: 4px;
@@ -1802,87 +1802,87 @@ body {
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505823"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750151-2243887594.png") center no-repeat;
+    background: url("../images/6505823.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505844"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470751304-2239077189.png") center no-repeat;
+    background: url("../images/6505844.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505811"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750150-20378504.png") center no-repeat;
+    background: url("../images/6505811.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505757"]::after {
     content: "響應式網頁設計：RWD";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505757"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750147-2036042600.png") center no-repeat;
+    background: url("../images/6505757.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505715"]::after {
     content: "像Java Script那樣寫CSS";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505715"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750144-3345753891.png") center no-repeat;
+    background: url("../images/6505715.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505802"]::after {
     content: "好用外掛分享";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505802"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750149-4258286997.png") center no-repeat;
+    background: url("../images/6505802.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505724"]::after {
     content: "基礎、進階、實戰應用";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505724"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750146-3754952284.png") center no-repeat;
+    background: url("../images/6505724.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505721"]::after {
     content: "sass開發心得與歷程";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505721"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750145-1296876581.png") center no-repeat;
+    background: url("../images/6505721.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505826"]::after {
     content: "向量素材分享";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505826"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750152-77549654.png") center no-repeat;
+    background: url("../images/6505826.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505733"]::after {
     content: "絕對優質、絕對原創";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505733"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750146-3222832386.png") center no-repeat;
+    background: url("../images/6505733.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505820"]::after {
     content: "網頁設計系列教程";
     width: auto;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505820"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750150-821148437.png") center no-repeat;
+    background: url("../images/6505820.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505799"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750149-3052171673.png") center no-repeat;
+    background: url("../images/6505799.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505790"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750148-3679784219.png") center no-repeat;
+    background: url("../images/6505790.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505784"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750148-3780840935.png") center no-repeat;
+    background: url("../images/6505784.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505778"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750147-4190677192.png") center no-repeat;
+    background: url("../images/6505778.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="6505772"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750147-4035090976.png") center no-repeat;
+    background: url("../images/6505772.png") center no-repeat;
   }
   #container2 #main #links #category .box-text ul li a[href*="/blog/category/0"]::before {
-    background: url("http://pic.pimg.tw/aideshop/1470750152-1420706228.png") center no-repeat;
+    background: url("../images/category0.png") center no-repeat;
   }
   #container2 #main #links #calendar .box-text table {
     width: 100%;
@@ -2018,7 +2018,7 @@ body {
   #container3 #footer {
     width: 100%;
     height: auto;
-    background: #fff url("https://pic.pimg.tw/aideshop/1470467916-3568550120.png") top repeat-x;
+    background: #fff url("../images/footer-bg-top-border.png") top repeat-x;
     position: relative;
     padding-top: 11px;
   }
@@ -2041,7 +2041,7 @@ body {
     border-top-width: 10px;
     border-top-style: solid;
     border-top-color: #07328C;
-    background: #1674CC url("https://pic.pimg.tw/aideshop/1470467916-3145242612.png") top center no-repeat;
+    background: #1674CC url("../images/footer-bg-top-border-line.png") top center no-repeat;
     padding-left: 10px;
     padding-right: 10px;
   }
@@ -2099,7 +2099,7 @@ body {
 }
 @media screen and (max-width: 1136px) {
   #container2 {
-    background: url("https://pic.pimg.tw/aideshop/1470467917-4085248280.png") top center no-repeat;
+    background: url("../images/header-me1100h400.png") top center no-repeat;
   }
   #container2 #header {
     height: 400px;
@@ -2111,7 +2111,7 @@ body {
     width: 100%;
     margin-left: -50%;
     float: none;
-    background: url("https://pic.pimg.tw/aideshop/1470467917-360542107.png") 20px 0 no-repeat;
+    background: url("../images/logo.png") 20px 0 no-repeat;
   }
   #container2 #header #banner h1 {
     text-align: right;
@@ -2187,7 +2187,7 @@ body {
     bottom: 37px;
     left: 0;
     border: 1px solid #1580B9;
-    background: url("https://pic.pimg.tw/aideshop/1470467918-2740934543.png") center no-repeat;
+    background: url("../images/read-more-800.png") center no-repeat;
   }
   #container2 #main #content #article-area .article .article-body .article-content .article-content-inner .more a {
     background: none;
@@ -2203,7 +2203,7 @@ body {
     line-height: 37px;
     text-indent: 0;
     text-align: center;
-    background: url("https://pic.pimg.tw/aideshop/1470467915-2901363084.png") bottom repeat-x;
+    background: url("../images/author.png") bottom repeat-x;
   }
   #container2 #main #content #article-area .page * {
     font-size: 2.6rem;
@@ -2270,7 +2270,7 @@ body {
   }
   #container2 #main #content #spotlight .nav ul li a {
     width: auto;
-    background: url("https://pic.pimg.tw/aideshop/1470990448-1419073365.png") center center no-repeat;
+    background: url("../images/nav-icons.png") center center no-repeat;
   }
   #container2 #main #content #spotlight .nav ul li a span {
     display: none;
@@ -2471,7 +2471,7 @@ body {
   }
   div[class*="text-content-default"] table caption, .cd-panel-content table caption {
     height: 37px;
-    background: url("https://pic.pimg.tw/aideshop/1470467916-1209498544.png") center bottom no-repeat;
+    background: url("../images/box-title.png") center bottom no-repeat;
     line-height: 35px;
     text-align: center;
     font-size: 2.4rem;
@@ -2491,7 +2491,7 @@ body {
     text-shadow: 2px 2px 1px white;
     padding: 5px 10px;
     color: #3B7ED6;
-    background: url("https://pic.pimg.tw/aideshop/1470467918-2410957694.png") right bottom no-repeat;
+    background: url("../images/nav.png") right bottom no-repeat;
   }
   div[class*="text-content-default"] dl dt, .cd-panel-content dl dt {
     font-weight: bold;
