@@ -2792,6 +2792,11 @@ body {
     font-size: 2.5rem;
   }
 }
+@media screen and (max-width: 480px) {
+  div[class*="text-content-default"], .cd-panel-content {
+    font-size: 1.8rem;
+  }
+}
 body .cd-panel {
   font-family: "Droid Sans", sans-serif;
   color: #dbe2e9;
