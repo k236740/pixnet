@@ -783,7 +783,7 @@ body {
   }
   #container2 #header #navigation li a {
     text-decoration: none;
-    font-family: "Noto Sans TC", 微軟正黑體, 微軟雅黑體;
+    font-family: "Noto Sans TC", "Microsoft JhengHei", "Microsoft YaHei";
     font-weight: 500;
     font-size: 1.8rem;
     color: #D5E4F7;
@@ -1701,7 +1701,7 @@ body {
     vertical-align: middle;
   }
   #container2 #main #links #powered .box-text ul li:nth-child(2) {
-    font-family: "Quicksand-Light", "微軟正黑體";
+    font-family: "Quicksand-Light", "Microsoft JhengHei";
     color: #dfe5f1;
     font-size: 3.6rem;
     text-decoration: none;
@@ -2366,7 +2366,7 @@ body {
 @media screen and (max-width: 1920px) {
   /* 開始定義內容樣式 - text-content-default */
   div[class*="text-content-default"] pre, .cd-panel-content pre, div[class*="text-content-default"] pre code, .cd-panel-content pre code, div[class*="text-content-default"] p code, div[class*="text-content-default"] li code, .cd-panel-content p code, .cd-panel-content li code {
-    font-family: "SourceCodePro-Regular", "微軟正黑體";
+    font-family: "SourceCodePro-Regular", "Microsoft JhengHei";
   }
 
   div[class*="text-content-default"], .cd-panel-content {
