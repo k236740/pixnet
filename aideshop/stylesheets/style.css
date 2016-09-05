@@ -1,29 +1,29 @@
 @charset "UTF-8";
 @font-face {
   font-family: 'aideshop';
-  src: url("https://od.lk/s/OTJfMTg1NzMyN18/aideshop.eot?66557385");
-  src: url("fontello-52a7b71f/font/aideshop.eot?66557385#iefix") format("embedded-opentype"), url("https://od.lk/s/OTJfMTg1NzMzMV8/aideshop.woff2?66557385") format("woff2"), url("https://od.lk/s/OTJfMTg1NzMzMF8/aideshop.woff?66557385") format("woff"), url("https://od.lk/s/OTJfMTg1NzMyOV8/aideshop.ttf?66557385") format("truetype"), url("https://od.lk/s/OTJfMTg1NzMyOF8/aideshop.svg?66557385#aideshop") format("svg");
+  src: url("../webfonts/aideshop/font/aideshop.eot?66557385");
+  src: url("../webfonts/aideshop/font/aideshop.eot?66557385#iefix") format("embedded-opentype"), url("../webfonts/aideshop/font/aideshop.woff2?66557385") format("woff2"), url("../webfonts/aideshop/font/aideshop.woff?66557385") format("woff"), url("../webfonts/aideshop/font/aideshop.ttf?66557385") format("truetype"), url("../webfonts/aideshop/font/aideshop.svg?66557385#aideshop") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Quicksand-Light';
-  src: url("https://od.lk/s/OTJfMTg1NzM2MF8/Quicksand-Light.eot");
-  src: url("https://od.lk/s/OTJfMTg1NzM2NF8/Quicksand-Light.woff2") format("woff2"), url("https://od.lk/s/OTJfMTg1NzM2M18/Quicksand-Light.woff") format("woff"), url("https://od.lk/s/OTJfMTg1NzM2Ml8/Quicksand-Light.ttf") format("truetype"), url("https://od.lk/s/OTJfMTg1NzM2MV8/Quicksand-Light.svg#Quicksand-Light") format("svg"), url("Quicksand-Light.eot?#iefix") format("embedded-opentype");
+  src: url("../webfonts/Quicksand-Light/Quicksand-Light.eot");
+  src: url("../webfonts/Quicksand-Light/Quicksand-Light.woff2") format("woff2"), url("../webfonts/Quicksand-Light/Quicksand-Light.woff") format("woff"), url("../webfonts/Quicksand-Light/Quicksand-Light.ttf") format("truetype"), url("../webfonts/Quicksand-Light/Quicksand-Light.svg#Quicksand-Light") format("svg"), url("Quicksand-Light.eot?#iefix") format("embedded-opentype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'MyriadPro-Light';
-  src: url("https://od.lk/s/OTJfMTg1NzM1NV8/MyriadPro-Light.eot");
-  src: url("https://od.lk/s/OTJfMTg1NzM1OV8/MyriadPro-Light.woff2") format("woff2"), url("https://od.lk/s/OTJfMTg1NzM1OF8/MyriadPro-Light.woff") format("woff"), url("https://od.lk/s/OTJfMTg1NzM1N18/MyriadPro-Light.ttf") format("truetype"), url("https://od.lk/s/OTJfMTg1NzM1Nl8/MyriadPro-Light.svg#MyriadPro-Light") format("svg"), url("MyriadPro-Light.eot?#iefix") format("embedded-opentype");
+  src: url("../webfonts/MyriadPro-Light/MyriadPro-Light.eot");
+  src: url("../webfonts/MyriadPro-Light/MyriadPro-Light.woff2") format("woff2"), url("../webfonts/MyriadPro-Light/MyriadPro-Light.woff") format("woff"), url("../webfonts/MyriadPro-Light/MyriadPro-Light.ttf") format("truetype"), url("../webfonts/MyriadPro-Light/MyriadPro-Light.svg#MyriadPro-Light") format("svg"), url("../webfonts/MyriadPro-Light/MyriadPro-Light.eot?#iefix") format("embedded-opentype");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'SourceCodePro-Regular';
-  src: url("https://od.lk/s/OTJfMTg1NzMzOV8/SourceCodePro-Regular.eot");
-  src: url("https://od.lk/s/OTJfMTg1NzM0M18/SourceCodePro-Regular.woff2") format("woff2"), url("https://od.lk/s/OTJfMTg1NzM0Ml8/SourceCodePro-Regular.woff") format("woff"), url("https://od.lk/s/OTJfMTg1NzM0MV8/SourceCodePro-Regular.ttf") format("truetype"), url("https://od.lk/s/OTJfMTg1NzM0MF8/SourceCodePro-Regular.svg#SourceCodePro-Regular") format("svg"), url("https://od.lk/s/OTJfMTg1NzMzOV8/SourceCodePro-Regular.eot?#iefix") format("embedded-opentype");
+  src: url("../webfonts/SourceCodePro-Regular/SourceCodePro-Regular.eot");
+  src: url("../webfonts/SourceCodePro-Regular/SourceCodePro-Regular.woff2") format("woff2"), url("../webfonts/SourceCodePro-Regular/SourceCodePro-Regular.woff") format("woff"), url("../webfonts/SourceCodePro-Regular/SourceCodePro-Regular.ttf") format("truetype"), url("../webfonts/SourceCodePro-Regular/SourceCodePro-Regular.svg#SourceCodePro-Regular") format("svg"), url("../webfonts/SourceCodePro-Regular/SourceCodePro-Regular.eot?#iefix") format("embedded-opentype");
   font-weight: normal;
   font-style: normal;
 }
