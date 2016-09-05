@@ -1396,6 +1396,11 @@ body {
   #container2 #main #content #article-area #user-post #comment-box #comment-text ul.single-post .post-photo {
     float: left;
   }
+  #container2 #main #content #article-area #user-post #comment-box #comment-text ul.single-post .post-photo a img {
+    -moz-border-radius: 45px;
+    -webkit-border-radius: 45px;
+    border-radius: 45px;
+  }
   #container2 #main #content #article-area #user-post #comment-box #comment-text ul.single-post .post-text {
     /* 訪客留言 */
     margin-left: 100px;
