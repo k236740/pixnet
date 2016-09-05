@@ -1978,6 +1978,33 @@ body {
     color: #aaa;
     font-size: 1.6rem;
   }
+  #container2 #main #links #latest-comment .box-text ul {
+    margin: 0;
+  }
+  #container2 #main #links #latest-comment .box-text ul li {
+    border-color: rgba(121, 167, 226, 0.7);
+    border-width: 0 0 1px 0;
+    border-style: dotted;
+    position: relative;
+  }
+  #container2 #main #links #latest-comment .box-text ul li:nth-child(2n+1) {
+    background-color: #E8F5FE;
+  }
+  #container2 #main #links #latest-comment .box-text ul li:nth-child(1) {
+    border-color: rgba(121, 167, 226, 0.6);
+    border-width: 1px 0 1px 0;
+    border-style: dotted;
+  }
+  #container2 #main #links #latest-comment .box-text ul li a {
+    font-size: 2rem;
+    color: #1467C3;
+    text-decoration: none;
+    display: block;
+    width: auto;
+  }
+  #container2 #main #links #latest-comment .box-text ul li a img {
+    display: none;
+  }
   #container2 #main #links #box318115,
   #container2 #main #links #box318121,
   #container2 #main #links #box318148,
