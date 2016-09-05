@@ -2335,8 +2335,14 @@ body {
   #container2 #main #content #spotlight .nav ul li a span {
     display: none;
   }
+  #container2 #main #content #spotlight .nav ul li#latest-news {
+    /* 最新動態 */
+  }
   #container2 #main #content #spotlight .nav ul li#latest-news a {
     background: url("../images/latest-news.png") center center no-repeat;
+  }
+  #container2 #main #content #spotlight .nav ul li#toggle {
+    /* 作品展示 */
   }
   #container2 #main #content #spotlight .nav ul li#toggle a {
     background: url("../images/Display.png") center center no-repeat;
