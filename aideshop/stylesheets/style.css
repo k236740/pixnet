@@ -1403,7 +1403,7 @@ body {
   #container2 #main #content #article-area #user-post #comment-box #comment-text ul.single-post .reply-text {
     /* 版主回覆 */
     background-color: rgba(249, 249, 219, 0.5);
-    margin-left: 90px;
+    margin-left: 100px;
     border: 1px dotted rgba(0, 0, 0, 0.5);
     margin: 20px 0 20px 90px;
     -moz-border-radius: 10px;
