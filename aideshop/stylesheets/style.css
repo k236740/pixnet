@@ -2751,12 +2751,21 @@ body {
     background-color: #f2854c;
   }
   div[class*="text-content-default"] .as-dl-F2395B, .cd-panel-content .as-dl-F2395B {
-    border-color: #3d4c4f;
+    border-color: #f2395b;
   }
   div[class*="text-content-default"] .as-dl-F2395B:link, div[class*="text-content-default"] .as-dl-F2395B:visited, div[class*="text-content-default"] .as-dl-F2395B:active, .cd-panel-content .as-dl-F2395B:link, .cd-panel-content .as-dl-F2395B:visited, .cd-panel-content .as-dl-F2395B:active {
-    color: #3d4c4f;
+    color: #f2395b;
   }
   div[class*="text-content-default"] .as-dl-F2395B:hover, .cd-panel-content .as-dl-F2395B:hover {
+    background-color: #f2395b;
+  }
+  div[class*="text-content-default"] .as-dl-3D4C4F, .cd-panel-content .as-dl-3D4C4F {
+    border-color: #3d4c4f;
+  }
+  div[class*="text-content-default"] .as-dl-3D4C4F:link, div[class*="text-content-default"] .as-dl-3D4C4F:visited, div[class*="text-content-default"] .as-dl-3D4C4F:active, .cd-panel-content .as-dl-3D4C4F:link, .cd-panel-content .as-dl-3D4C4F:visited, .cd-panel-content .as-dl-3D4C4F:active {
+    color: #3d4c4f;
+  }
+  div[class*="text-content-default"] .as-dl-3D4C4F:hover, .cd-panel-content .as-dl-3D4C4F:hover {
     background-color: #3d4c4f;
   }
   div[class*="text-content-default"] a[class*="as-dl-"], .cd-panel-content a[class*="as-dl-"] {
