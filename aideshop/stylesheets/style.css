@@ -2636,6 +2636,135 @@ body {
     content: close-quote;
     font-size: 3rem;
   }
+  div[class*="text-content-default"] .as-download, .cd-panel-content .as-download {
+    font-family: "times new roman", "Noto Sans TC", "Microsoft JhengHei";
+    font-size: 3rem;
+    display: inline-block;
+    padding: 5px 20px;
+    border-color: #3d4c4f;
+    border-width: 3px;
+    border-style: solid;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    position: relative;
+    outline: none;
+    width: auto;
+    height: 50px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 30px;
+    -moz-transition: all 0.2s, -moz-transform 0.2s;
+    -o-transition: all 0.2s, -o-transform 0.2s;
+    -webkit-transition: all 0.2s, -webkit-transform 0.2s;
+    transition: all 0.2s, transform 0.2s;
+  }
+  div[class*="text-content-default"] .as-download :not(th), div[class*="text-content-default"] .as-download :not(td), .cd-panel-content .as-download :not(th), .cd-panel-content .as-download :not(td) {
+    text-shadow: 0 0 0 transparent;
+  }
+  div[class*="text-content-default"] .as-download-text, div[class*="text-content-default"] .as-download-info, .cd-panel-content .as-download-text, .cd-panel-content .as-download-info {
+    height: 50px;
+    display: block;
+    -moz-transition: all 0.2s, -moz-transform 0.2s;
+    -o-transition: all 0.2s, -o-transform 0.2s;
+    -webkit-transition: all 0.2s, -webkit-transform 0.2s;
+    transition: all 0.2s, transform 0.2s;
+  }
+  div[class*="text-content-default"] .as-download-text, .cd-panel-content .as-download-text {
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  div[class*="text-content-default"] .as-download-info, .cd-panel-content .as-download-info {
+    -moz-transform: translateY(100%);
+    -ms-transform: translateY(100%);
+    -webkit-transform: translateY(100%);
+    transform: translateY(100%);
+  }
+  div[class*="text-content-default"] .as-download::before, div[class*="text-content-default"] .as-download::after, .cd-panel-content .as-download::before, .cd-panel-content .as-download::after {
+    content: "";
+  }
+  div[class*="text-content-default"] .as-download:link, .cd-panel-content .as-download:link {
+    color: #3d4c4f;
+  }
+  div[class*="text-content-default"] .as-download:visited, .cd-panel-content .as-download:visited {
+    color: #3d4c4f;
+  }
+  div[class*="text-content-default"] .as-download:hover, .cd-panel-content .as-download:hover {
+    text-decoration: none;
+    background-color: #3d4c4f;
+    color: #fff;
+  }
+  div[class*="text-content-default"] .as-download:hover .as-download-text, .cd-panel-content .as-download:hover .as-download-text {
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -webkit-transform: translateY(-100%);
+    transform: translateY(-100%);
+  }
+  div[class*="text-content-default"] .as-download:hover .as-download-info, .cd-panel-content .as-download:hover .as-download-info {
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -webkit-transform: translateY(-100%);
+    transform: translateY(-100%);
+  }
+  div[class*="text-content-default"] .as-download:active, .cd-panel-content .as-download:active {
+    color: #3d4c4f;
+  }
+}
+@media screen and (max-width: 1920px) and (max-width: 480px) {
+  div[class*="text-content-default"] .as-download, .cd-panel-content .as-download {
+    font-size: 2rem;
+    height: 40px;
+    line-height: 22px;
+  }
+  div[class*="text-content-default"] .as-download-text, div[class*="text-content-default"] .as-download-info, .cd-panel-content .as-download-text, .cd-panel-content .as-download-info {
+    height: 40px;
+  }
+}
+@media screen and (max-width: 1920px) {
+  div[class*="text-content-default"] .as-dl-3498db, .cd-panel-content .as-dl-3498db {
+    border-color: #3498db;
+  }
+  div[class*="text-content-default"] .as-dl-3498db:link, div[class*="text-content-default"] .as-dl-3498db:visited, div[class*="text-content-default"] .as-dl-3498db:active, .cd-panel-content .as-dl-3498db:link, .cd-panel-content .as-dl-3498db:visited, .cd-panel-content .as-dl-3498db:active {
+    color: #3498db;
+  }
+  div[class*="text-content-default"] .as-dl-3498db:hover, .cd-panel-content .as-dl-3498db:hover {
+    background-color: #3498db;
+  }
+  div[class*="text-content-default"] .as-dl-4AB277, .cd-panel-content .as-dl-4AB277 {
+    border-color: #4ab277;
+  }
+  div[class*="text-content-default"] .as-dl-4AB277:link, div[class*="text-content-default"] .as-dl-4AB277:visited, div[class*="text-content-default"] .as-dl-4AB277:active, .cd-panel-content .as-dl-4AB277:link, .cd-panel-content .as-dl-4AB277:visited, .cd-panel-content .as-dl-4AB277:active {
+    color: #4ab277;
+  }
+  div[class*="text-content-default"] .as-dl-4AB277:hover, .cd-panel-content .as-dl-4AB277:hover {
+    background-color: #4ab277;
+  }
+  div[class*="text-content-default"] .as-dl-F2854C, .cd-panel-content .as-dl-F2854C {
+    border-color: #f2854c;
+  }
+  div[class*="text-content-default"] .as-dl-F2854C:link, div[class*="text-content-default"] .as-dl-F2854C:visited, div[class*="text-content-default"] .as-dl-F2854C:active, .cd-panel-content .as-dl-F2854C:link, .cd-panel-content .as-dl-F2854C:visited, .cd-panel-content .as-dl-F2854C:active {
+    color: #f2854c;
+  }
+  div[class*="text-content-default"] .as-dl-F2854C:hover, .cd-panel-content .as-dl-F2854C:hover {
+    background-color: #f2854c;
+  }
+  div[class*="text-content-default"] .as-dl-F2395B, .cd-panel-content .as-dl-F2395B {
+    border-color: #3d4c4f;
+  }
+  div[class*="text-content-default"] .as-dl-F2395B:link, div[class*="text-content-default"] .as-dl-F2395B:visited, div[class*="text-content-default"] .as-dl-F2395B:active, .cd-panel-content .as-dl-F2395B:link, .cd-panel-content .as-dl-F2395B:visited, .cd-panel-content .as-dl-F2395B:active {
+    color: #3d4c4f;
+  }
+  div[class*="text-content-default"] .as-dl-F2395B:hover, .cd-panel-content .as-dl-F2395B:hover {
+    background-color: #3d4c4f;
+  }
+  div[class*="text-content-default"] a[class*="as-dl-"], .cd-panel-content a[class*="as-dl-"] {
+    color: #fff;
+  }
+  div[class*="text-content-default"] a[class*="as-dl-"]:hover, .cd-panel-content a[class*="as-dl-"]:hover {
+    color: #FFF;
+  }
 
   div[class*="text-content-default"] {
     /* Text scale */
