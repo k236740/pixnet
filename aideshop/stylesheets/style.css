@@ -1079,7 +1079,7 @@ body {
   #container2 #main #content #article-area .article .article-head .title h2 img {
     display: none;
   }
-  #container2 #main #content #article-area .article .article-head .title h2 img + a::before {
+  #container2 #main #content #article-area .article .article-head .title h2 img[src*="set-to-top"] + a::before {
     content: " [ 置頂 ] ";
   }
   #container2 #main #content #article-area .article .article-head .title h2 img[src*="privacy-lock-small"] + a::before {
