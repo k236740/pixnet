@@ -1082,6 +1082,9 @@ body {
   #container2 #main #content #article-area .article .article-head .title h2 img + a::before {
     content: " [ 置頂 ] ";
   }
+  #container2 #main #content #article-area .article .article-head .title h2 img[src*="privacy-lock-small"] + a::before {
+    content: " [ 隱藏 ] ";
+  }
   #container2 #main #content #article-area .article .article-head .title h2 a {
     color: #1467C3;
     text-decoration: none;
