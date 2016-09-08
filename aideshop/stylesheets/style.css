@@ -1275,9 +1275,9 @@ body {
     vertical-align: middle;
   }
   #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(2):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(3):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(4):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(5):nth-child(3) a {
-    max-width: -webkit-calc(100% - 150px);
-    max-width: -moz-calc(100% - 150px);
-    max-width: calc(100% - 150px);
+    max-width: -webkit-calc(100% - 170px);
+    max-width: -moz-calc(100% - 170px);
+    max-width: calc(100% - 170px);
   }
   #container2 #main #content #article-area .article .article-footer div.history h6 {
     height: 37px;
