@@ -1332,8 +1332,8 @@ body {
     width: 60px;
     height: 30px;
     position: absolute;
-    bottom: 3px;
-    right: 40px;
+    bottom: 43px;
+    right: 5px;
     overflow: hidden;
     z-index: 2;
     background: url("../images/back-to-top.png") 0 -30px no-repeat;
