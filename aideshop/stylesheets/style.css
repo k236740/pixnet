@@ -2276,6 +2276,9 @@ body {
     text-align: center;
     background: url("../images/author.png") bottom repeat-x;
   }
+  #container2 #main #content #article-area .article .article-footer ul.refer li {
+    font-size: 1.8rem;
+  }
   #container2 #main #content #article-area .page * {
     font-size: 2.6rem;
   }
@@ -2365,6 +2368,9 @@ body {
   #container2 #main #content #article-area .article .article-body .author {
     text-indent: -510px;
     overflow: hidden;
+  }
+  #container2 #main #content #article-area .article .article-footer ul.refer li {
+    font-size: 1.6rem;
   }
   #container2 #main #links #powered {
     position: static;
