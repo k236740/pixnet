@@ -1244,6 +1244,9 @@ body {
   #container2 #main #content #article-area .article .article-footer {
     /* 文章下方的 [上一篇] 與 [下一篇] 文章連結 */
   }
+  #container2 #main #content #article-area .article .article-footer ul.refer {
+    margin-bottom: 70px;
+  }
   #container2 #main #content #article-area .article .article-footer ul.refer li {
     font-size: 2rem;
   }
