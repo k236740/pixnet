@@ -2372,6 +2372,11 @@ body {
   #container2 #main #content #article-area .article .article-footer ul.refer li {
     font-size: 1.6rem;
   }
+  #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(4) a {
+    max-width: -webkit-calc(100% - 150px);
+    max-width: -moz-calc(100% - 150px);
+    max-width: calc(100% - 150px);
+  }
   #container2 #main #links #powered {
     position: static;
     top: 0;
