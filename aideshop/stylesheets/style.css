@@ -1253,6 +1253,9 @@ body {
   #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(1) {
     display: none;
   }
+  #container2 #main #content #article-area .article .article-footer ul.refer li img {
+    vertical-align: middle;
+  }
   #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(2), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(3), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(4), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(5), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(6) {
     float: left;
     border: 1px solid rgba(119, 164, 221, 0.7);
