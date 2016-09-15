@@ -1253,9 +1253,6 @@ body {
   #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(1) {
     display: none;
   }
-  #container2 #main #content #article-area .article .article-footer ul.refer li img {
-    vertical-align: middle;
-  }
   #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(2), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(3), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(4), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(5), #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(6) {
     float: left;
     border: 1px solid rgba(119, 164, 221, 0.7);
@@ -1285,6 +1282,7 @@ body {
     max-width: -moz-calc(100% - 100px);
     max-width: calc(100% - 100px);
     vertical-align: middle;
+    line-height: 40px;
   }
   #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(2):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(2):nth-child(4) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(3):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(3):nth-child(4) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(4):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(4):nth-child(4) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(5):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(5):nth-child(4) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(6):nth-child(3) a, #container2 #main #content #article-area .article .article-footer ul.refer li:nth-child(6):nth-child(4) a {
     max-width: -webkit-calc(100% - 170px);
