@@ -1838,6 +1838,10 @@
   width: 840px;
 }
 
+.jplist .title {
+  font-size: 16px;
+  color: red;
+}
 
 .jplist .date {
   float: right;
@@ -1853,7 +1857,6 @@
 }
 
 .jplist .list {
-  background: #fff;
   margin: 30px 0;
 }
 
