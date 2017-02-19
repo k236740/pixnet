@@ -2469,6 +2469,7 @@ body {
     font-size: 2.2rem;
     margin: 20px;
     color: #454545;
+    /* 讓圖片自適應RWD*/
   }
 }
 @media screen and (max-width: 1920px) and (min-width: 0\0) {
@@ -2477,6 +2478,13 @@ body {
   }
 }
 @media screen and (max-width: 1920px) {
+  div[class*="text-content-default"] p, div[class*="text-content-default"] li, .cd-panel-content p, .cd-panel-content li {
+    table-layout: fixed;
+    word-wrap: break-word;
+    word-break: normal;
+    text-align: justify;
+    text-justify: inter-ideograph;
+  }
   div[class*="text-content-default"] .footnotes, .cd-panel-content .footnotes {
     /**
      * 連結錨點觸發:target時的樣式
@@ -2548,7 +2556,6 @@ body {
     }
   }
   div[class*="text-content-default"] a.link-img, div[class*="text-content-default"] a img, div[class*="text-content-default"] img, .cd-panel-content a.link-img, .cd-panel-content a img, .cd-panel-content img {
-    /* 讓圖片自適應RWD*/
     width: auto;
     height: auto;
     max-height: 100%;
