@@ -2491,7 +2491,7 @@ body {
      */
   }
   div[class*="text-content-default"] .footnotes ol li, .cd-panel-content .footnotes ol li {
-    background: #fff;
+    background: transparent;
     -moz-transition: opacity 1s linear 0s;
     -o-transition: opacity 1s linear 0s;
     -webkit-transition: opacity 1s linear;
