@@ -911,6 +911,9 @@ body {
   #container2 #main #content #spotlight .nav ul li:last-child #search-target, #container2 #main #content #spotlight .nav ul li:last-child #search-submit {
     height: 30px;
   }
+  #container2 #main #content #spotlight .nav ul li:last-child #search-target:focus {
+    outline: none;
+  }
   #container2 #main #content #spotlight .nav ul li a {
     display: block;
     height: 47px;
