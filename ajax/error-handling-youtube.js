@@ -1,15 +1,15 @@
 $(document).ready(function(){
-  var container = $('#target');
+  var container = $('#as-youtube');
   container.attr('tabIndex','-1');
-  $('.ajaxtrigger').click(function(){
-    var trigger = $(this);
-    var url = trigger.attr('href');
-    if(!trigger.hasClass('loaded')){
-      trigger.append('<span></span>');
-      trigger.addClass('loaded');
-      var msg = trigger.find('span').last();
+  $('.ajaxyoutube').click(function(){
+    var youtube = $(this);
+    var url = youtube.attr('href');
+    if(!youtube.hasClass('loaded')){
+      youtube.append('<span></span>');
+      youtube.addClass('loaded');
+      var msg = youtube.find('span').last();
     } else {
-      var msg = trigger.find('span').last();
+      var msg = youtube.find('span').last();
     }
     doAjax(url,msg,container);
     return false;
