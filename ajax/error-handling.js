@@ -1,7 +1,7 @@
 $(document).ready(function(){
   var container = $('#target,#as-youtube');
   container.attr('tabIndex','-1');
-  $('.ajaxtrigger').click(function(){
+  $('.ajaxtrigger,.ajax-youtube').click(function(){
     var trigger = $(this);
     var url = trigger.attr('href');
     if(!trigger.hasClass('loaded')){
