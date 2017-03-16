@@ -828,6 +828,7 @@ body {
     position: relative;
     display: none;
     z-index: 99999;
+    margin-bottom: 20px;
   }
   #container2 #main #content #spotlight .nav {
     position: absolute;
