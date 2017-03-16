@@ -805,8 +805,7 @@ body {
     position: relative;
   }
   #container2 #main #content #spotlight {
-    height: 20px;
-    background-color: #A0C2F0;
+    padding-bottom: 20px;
     /* 公告欄 */
   }
   #container2 #main #content #spotlight h5 {
