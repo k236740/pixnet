@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var container = $('#target');
+  var container = $('#target,#as-youtube');
   container.attr('tabIndex','-1');
   $('.ajaxtrigger').click(function(){
     var trigger = $(this);
