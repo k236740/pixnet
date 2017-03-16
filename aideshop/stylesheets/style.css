@@ -2887,6 +2887,12 @@ body {
     content: '';
   }
 
+  .author-profile {
+    /*創作者介紹*/
+    display: none;
+    margin: 0;
+  }
+
   .cd-panel-content {
     margin: 0;
   }
