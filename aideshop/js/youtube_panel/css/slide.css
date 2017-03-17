@@ -80,7 +80,7 @@
 #as-youtube-toppanel {
     position: absolute;   /*Panel will overlap  content */
     /*position: relative;*/   /*Panel will "push" the content down */
-    top: 0;
+    top: -100%;
     width: 100%;
     z-index: 999;
     text-align: center;
