@@ -122,3 +122,8 @@
   text-align: center;
   line-height: 50px;
 }
+@include media(screen-1100) {
+  #as-youtube-toppanel {
+      top: -404px;
+  }
+}
