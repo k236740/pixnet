@@ -1656,20 +1656,6 @@ body {
   #container2 #main #links #box318889 .box-text, #container2 #main #links #box318892 .box-text {
     display: none;
   }
-  #container2 #main #links #box425695, #container2 #main #links #box425692 {
-    width: auto;
-    height: auto;
-    overflow: hidden;
-    position: relative;
-    display: none;
-    border: none;
-    -moz-box-shadow: 0 0 0 0 transparent;
-    -webkit-box-shadow: 0 0 0 0 transparent;
-    box-shadow: 0 0 0 0 transparent;
-  }
-  #container2 #main #links #box425695 .box-text, #container2 #main #links #box425692 .box-text {
-    display: none;
-  }
   #container2 #main #links .box {
     border: 1px solid #79A7E2;
     background-color: #F9FDFF;
