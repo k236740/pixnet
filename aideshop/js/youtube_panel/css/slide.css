@@ -83,9 +83,9 @@
     top: -274px;
     right:-4px;
     width: 100%;
-    width: -webkit-calc(100% + 40px);
-    width: -moz-calc(100% + 40px);
-    width: calc(100% + 40px);
+    width: -webkit-calc(100% + 50px);
+    width: -moz-calc(100% + 50px);
+    width: calc(100% + 50px);
     z-index: 999;
     text-align: center;
     margin-left: auto;
