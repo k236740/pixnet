@@ -81,7 +81,7 @@
     position: absolute;   /*Panel will overlap  content */
     /*position: relative;*/   /*Panel will "push" the content down */
     top: -274px;
-    right:-4px;
+    right:0px;
     width: -webkit-calc(100% + 50px);
     width: -moz-calc(100% + 50px);
     width: calc(100% + 50px);
