@@ -72,6 +72,7 @@
 	width: 50px;
 	position: relative;
 	top: 11px;
+  float: left;
 }
 
 .as-youtube-tab a.as-youtube-open {background: url(../images/bt_open.png) no-repeat left 0;}
