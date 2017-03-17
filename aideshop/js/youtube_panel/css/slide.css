@@ -109,6 +109,14 @@
 }
 #ay-close {
   position: fixed;
-  right: 0;
-  bottom: 0;
+  right: 20px;
+  bottom: 20px;
+  z-index: 1000;
+  width: 150px;
+  height: 80px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
 }
