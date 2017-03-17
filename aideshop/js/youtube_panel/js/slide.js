@@ -1,4 +1,4 @@
-(function($) {
+
   $(document).ready(function() {
       $('<audio controls id="au-002"><source src="https://k236740.github.io/pixnet/aideshop/js/youtube_panel/002.ogg" type="audio/ogg"><source src="https://k236740.github.io/pixnet/aideshop/js/youtube_panel/002.mp3" type="audio/mpeg"></audio>').appendTo('body');
   		$('<audio controls id="au-003"><source src="https://k236740.github.io/pixnet/aideshop/js/youtube_panel/003.ogg" type="audio/ogg"><source src="https://k236740.github.io/pixnet/aideshop/js/youtube_panel/003.mp3" type="audio/mpeg"></audio>').appendTo('body');
@@ -21,4 +21,3 @@
           $("#as-youtube-toggle a").toggle();
       });
   });
-})(jQuery);
