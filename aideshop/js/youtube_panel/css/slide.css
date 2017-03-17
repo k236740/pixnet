@@ -98,7 +98,7 @@
   width: -webkit-calc(100% + 30px);
   width: -moz-calc(100% + 30px);
   width: calc(100% + 30px);
-	height: 270px;
+	height: auto;
 	color: #999999;
 	background: #272727;
 	overflow: hidden;
