@@ -111,7 +111,7 @@
   position: fixed;
   right: 20px;
   bottom: 20px;
-  z-index: 100000;
+  z-index: 10000000000;
   width: 150px;
   height: 50px;
   background-color: rgba(0, 0, 0, 0.5);
