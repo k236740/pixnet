@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var container = $('#as-youtube');
+  var container = $('#as-youtube-panel');
   container.attr('tabIndex','-1');
   $('.ajaxyoutube').click(function(){
     var youtube = $(this);
