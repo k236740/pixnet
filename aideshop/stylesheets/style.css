@@ -816,7 +816,7 @@ body {
     width: calc(100% + 640px);
     margin-left: -320px;
     margin-right: auto;
-    z-index: 99998;
+    z-index: 9998;
   }
   #container2 #main #content #spotlight #toppanel #panel {
     width: auto;
@@ -826,7 +826,7 @@ body {
     overflow: hidden;
     position: relative;
     display: none;
-    z-index: 99999;
+    z-index: 9999;
   }
   #container2 #main #content #spotlight .nav {
     position: absolute;
