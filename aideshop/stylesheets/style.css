@@ -805,7 +805,7 @@ body {
     position: relative;
   }
   #container2 #main #content #spotlight {
-    margin-top: 20px;
+    margin-top: -20px;
     /* 公告欄 */
   }
   #container2 #main #content #spotlight h5 {
