@@ -814,6 +814,7 @@ body {
     width: -webkit-calc(100% + 640px);
     width: -moz-calc(100% + 640px);
     width: calc(100% + 640px);
+    margin-bottom: 20px;
     margin-left: -320px;
     margin-right: auto;
     z-index: 99998;
