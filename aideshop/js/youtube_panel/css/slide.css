@@ -82,7 +82,6 @@
     /*position: relative;*/   /*Panel will "push" the content down */
     top: -274px;
     right:-4px;
-    width: 100%;
     width: -webkit-calc(100% + 50px);
     width: -moz-calc(100% + 50px);
     width: calc(100% + 50px);
