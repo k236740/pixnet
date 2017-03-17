@@ -1,10 +1,13 @@
 
 .as-youtube-tab {
-  	background: url(../images/tab_b.png) repeat-x 0 0;
+  background: url(../images/tab_b.png) repeat-x 0 0;
 	height: 42px;
 	position: relative;
-    top: 0;
-    z-index: 999;
+  top: 0;
+  z-index: 999;
+  width: -webkit-calc(100% + 30px);
+  width: -moz-calc(100% + 30px);
+  width: calc(100% + 30px);
 }
 
 .as-youtube-tab ul.as-youtube-login {
