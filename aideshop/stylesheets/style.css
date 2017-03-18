@@ -2120,7 +2120,7 @@ body {
   }
   #container3 #footer .footer_link {
     /* 底部空白高度 */
-    /*padding-bottom: (36px);*/
+    padding-bottom: 36px;
     background: #E8F5FE;
   }
   #container3 #footer .footer_copy {
