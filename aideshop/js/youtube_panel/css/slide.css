@@ -5,9 +5,9 @@
 	position: relative;
   top: 0;
   z-index: 999;
-  width: -webkit-calc(100% + 30px);
-  width: -moz-calc(100% + 30px);
-  width: calc(100% + 30px);
+  width: -webkit-calc(100% + 20px);
+  width: -moz-calc(100% + 20px);
+  width: calc(100% + 20px);
 }
 
 .as-youtube-tab ul.as-youtube-login {
