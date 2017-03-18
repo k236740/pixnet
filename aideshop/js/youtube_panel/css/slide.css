@@ -5,9 +5,9 @@
 	position: relative;
   top: 0;
   z-index: 999;
-  width: -webkit-calc(100% + 20px);
-  width: -moz-calc(100% + 20px);
-  width: calc(100% + 20px);
+  width: -webkit-calc(100% + 15px);
+  width: -moz-calc(100% + 15px);
+  width: calc(100% + 15px);
 }
 
 .as-youtube-tab ul.as-youtube-login {
@@ -86,9 +86,9 @@
     /*position: relative;*/   /*Panel will "push" the content down */
     top: -281px;
     right:0px;
-    width: -webkit-calc(100% + 20px);
-    width: -moz-calc(100% + 20px);
-    width: calc(100% + 20px);
+    width: -webkit-calc(100% + 15px);
+    width: -moz-calc(100% + 15px);
+    width: calc(100% + 15px);
     z-index: 99999999999;
     text-align: center;
     margin-left: auto;
@@ -96,9 +96,9 @@
 }
 
 #as-youtube-panel {
-  width: -webkit-calc(100% + 20px);
-  width: -moz-calc(100% + 20px);
-  width: calc(100% + 20px);
+  width: -webkit-calc(100% + 15px);
+  width: -moz-calc(100% + 15px);
+  width: calc(100% + 15px);
 	height: auto;
 	color: #999999;
 	background: #272727;
