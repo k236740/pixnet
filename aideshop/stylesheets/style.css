@@ -821,8 +821,8 @@ body {
   #container2 #main #content #spotlight #toppanel #panel {
     width: auto;
     height: 500px;
-    color: #999999;
-    background: rgba(39, 39, 39, 0.32);
+    color: #FFFFFF;
+    background: rgba(39, 39, 39, 0);
     overflow: hidden;
     position: relative;
     display: none;
