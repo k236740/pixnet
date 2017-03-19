@@ -821,8 +821,7 @@ body {
   #container2 #main #content #spotlight #toppanel #panel {
     width: auto;
     height: 500px;
-    color: #999999;
-    background: #272727;
+    color: #fff;
     overflow: hidden;
     position: relative;
     display: none;
