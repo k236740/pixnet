@@ -822,7 +822,7 @@ body {
     width: auto;
     height: 500px;
     color: #999999;
-    background: #272727;
+    background: rgba(39, 39, 39, 0.32);
     overflow: hidden;
     position: relative;
     display: none;
