@@ -820,7 +820,7 @@ body {
   }
   #container2 #main #content #spotlight #toppanel #panel {
     width: auto;
-    height: 500px;
+    height: 700px;
     color: #FFFFFF;
     background: rgba(39, 39, 39, 0);
     overflow: hidden;
@@ -1644,7 +1644,7 @@ body {
   }
   #container2 #main #links #box318889, #container2 #main #links #box318892 {
     width: auto;
-    height: 500px;
+    height: 700px;
     overflow: hidden;
     position: relative;
     display: none;
